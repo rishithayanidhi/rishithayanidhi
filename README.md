@@ -31,4 +31,8 @@ I'm Rishi🤞, a II-year student at Sri Sairam Engineering College. I am passion
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityajai25&&theme=highcontrast" alt="adityajai25" /></p> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishithayanidhi&label=Profile%20views&color=0e75b6&style=flat" alt="rishithayanidhi" /> </p>
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=rishithayanidhi&show_icons=true&theme=radical"> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishithayanidhi&theme=dark"> |
+| :----------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------: |
+
 <p> H a p p y - D a y !! </p>
