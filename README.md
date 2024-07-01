@@ -13,7 +13,7 @@ I'm Rishi🤞, a II-year student at Sri Sairam Engineering College. I am passion
 
 <h3 align="left">Connect with me:</h3>
 
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/itz__bala__here/)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/rishithayanidhi/)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rishithayanidhi)
 
 <h3 align="left">Languages and Tools:</h3>
