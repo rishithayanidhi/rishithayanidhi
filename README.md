@@ -1,4 +1,9 @@
 <!-- <img  align="right" src="" alt="coding gif" height="300" width="400"></img> -->
+[![Twitter Badge](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Frishithayanidhi&label=%40rishithayanidhi
+)](https://x.com/rishithayanidhi)
+[![Instagram Badge](https://img.shields.io/badge/rishithayanidhi-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/rishithayanidhi/)
+ [![Linkedin Badge](https://img.shields.io/badge/-rishithayanidhi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rishithayanidhi/)](https://www.linkedin.com/in/rishithayanidhi/) 
+[![Gmail Badge](https://img.shields.io/badge/-rishithayanidhi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rishithayanidhi@gmail.com)](mailto:rishithayanidhi@gmail.com)
 
 <h1>Welcome Buddy!!</h1>
  
@@ -10,11 +15,6 @@ I'm Rishi🤞, a II-year student at Sri Sairam Engineering College. I am passion
 * 🧠  I'm learning DSA in Python
 * ⚡  Life is like debugging code; every bug you fix reveals a new layer of complexity.
 
-
-<h3 align="left">Connect with me:</h3>
-
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/rishithayanidhi/)
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rishithayanidhi)
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -28,7 +28,6 @@ I'm Rishi🤞, a II-year student at Sri Sairam Engineering College. I am passion
 
   [![GitHub Streak](https://streak-stats.demolab.com?user=rishithayanidhi&theme=highcontrast)](https://git.io/streak-stats) 
 </details>
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityajai25&&theme=highcontrast" alt="adityajai25" /></p> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishithayanidhi&label=Profile%20views&color=0e75b6&style=flat" alt="rishithayanidhi" /> </p>
 
