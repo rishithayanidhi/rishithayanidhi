@@ -17,18 +17,11 @@ I'm Rishi🤞, a II-year student at Sri Sairam Engineering College. I am passion
 
 ![My Skills](https://skillicons.dev/icons?i=py,cpp,js,mysql,firebase,react,git&theme=dark)
 
-<details>
-  <summary><h3>Profile-Stats:</h3></summary>
-    <p><img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=rishithayanidhi&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="arishithayanidhi" /></p>
-    <br>
-    <p>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rishithayanidhi&show_icons=true&locale=en&theme=highcontrast" alt="rishithayanidhi" /></p>
-
-  [![GitHub Streak](https://streak-stats.demolab.com?user=rishithayanidhi&theme=highcontrast)](https://git.io/streak-stats) 
-</details>
+<h3>Profile Stats</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishithayanidhi&label=Profile%20views&color=0e75b6&style=flat" alt="rishithayanidhi" /> </p>
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=rishithayanidhi&show_icons=true&theme=radical"> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishithayanidhi&theme=dark"> |
 | :----------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------: |
 
-<p> H a p p y - D a y !! </p>
+<p> H a p p y - C o d i n g!! </p>
