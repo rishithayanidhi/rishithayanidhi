@@ -15,7 +15,7 @@ I'm Rishi🤞, a II-year student at Sri Sairam Engineering College. I am passion
 
 <h3 align="left">Languages and Tools:</h3>
 
-![My Skills](https://skillicons.dev/icons?i=py,cpp,js,mysql,firebase,react,git&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=py,java,express,cpp,js,mysql,firebase,react,git&theme=dark)
 
 <h3>Profile Stats</h3>
 
