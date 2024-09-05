@@ -6,7 +6,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-rishithayanidhi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rishithayanidhi@gmail.com)](mailto:rishithayanidhi@gmail.com)
 
 
-
 I'm Rishi🤞, a II-year student at Sri Sairam Engineering College. I am passionate about Web development.I am passionate about the path of continuous learning, extending my limits, and participating in social activities that aim to have a constructive impact.
 
 * 🧑🏽‍💻  Python, SQL, MERN stack, Java
@@ -14,17 +13,14 @@ I'm Rishi🤞, a II-year student at Sri Sairam Engineering College. I am passion
 * 🧠  I'm learning DSA in Java
 * ⚡  Life is like debugging code; every bug you fix reveals a new layer of complexity.
 
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=rishithayanidhi&theme=react&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=rishithayanidhi&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rishithayanidhi&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<h3 align="left">Languages and Tools:</h3>
+---
+[![](https://visitcount.itsvg.in/api?id=rishithayanidhi&icon=1&color=5)](https://visitcount.itsvg.in)
 
-![My Skills](https://skillicons.dev/icons?i=py,java,express,c,js,mysql,firebase,react,git&theme=dark)
-
-<h3>Profile Stats</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishithayanidhi&label=Profile%20views&color=0e75b6&style=flat" alt="rishithayanidhi" /> </p>
-
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=rishithayanidhi&show_icons=true&theme=radical"> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishithayanidhi&theme=dark"> |
-| :----------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------: |
-
-
-<p> H a p p y - C o d i n g!! </p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
