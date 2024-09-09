@@ -1,4 +1,8 @@
 <!-- <img  align="right" src="" alt="coding gif" height="300" width="400"></img> -->
+
+<h1>Hello Scripter !!</h1>
+
+
 [![Twitter Badge](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Frishithayanidhi&label=%40rishithayanidhi
 )](https://x.com/rishithayanidhi)
 [![Instagram Badge](https://img.shields.io/badge/rishithayanidhi-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/rishithayanidhi/)
