@@ -12,7 +12,7 @@
 
 I'm Rishi🤞, a II-year student at Sri Sairam Engineering College. I am passionate about Web development.I am passionate about the path of continuous learning, extending my limits, and participating in social activities that aim to have a constructive impact.
 
-* 🧑🏽‍💻  Python, SQL, MERN stack, Java
+* 🧑🏽‍💻  Python, Machine Learning, Java
 * ✉️  You can contact me at [rishithayanidhi@gmail.com](mailto:rishithayanidhi@gmail.com)
 * 🧠  I'm learning DSA in Java
 * ⚡  Life is like debugging code; every bug you fix reveals a new layer of complexity.
