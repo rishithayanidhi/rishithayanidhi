@@ -3,9 +3,9 @@
 <h1>Hello Scripter !!</h1>
 
 
-[![Twitter Badge](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Frishithayanidhi&label=%40rishithayanidhi
+<!--[![Twitter Badge](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Frishithayanidhi&label=%40rishithayanidhi
 )](https://x.com/rishithayanidhi)
-[![Instagram Badge](https://img.shields.io/badge/rishithayanidhi-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/rishithayanidhi/)
+[![Instagram Badge](https://img.shields.io/badge/rishithayanidhi-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/rishithayanidhi/) -->
  [![Linkedin Badge](https://img.shields.io/badge/-rishithayanidhi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rishithayanidhi/)](https://www.linkedin.com/in/rishithayanidhi/) 
 [![Gmail Badge](https://img.shields.io/badge/-rishithayanidhi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rishithayanidhi@gmail.com)](mailto:rishithayanidhi@gmail.com)
 
