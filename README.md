@@ -10,7 +10,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-rishithayanidhi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rishithayanidhi@gmail.com)](mailto:rishithayanidhi@gmail.com)
 
 
-I'm Rishi🤞, a II-year student at Sri Sairam Engineering College. I am passionate about Web development.I am passionate about the path of continuous learning, extending my limits, and participating in social activities that aim to have a constructive impact.
+I'm Rishi🤞, a Pre-final student at Sri Sairam Engineering College. I am passionate about Web development.I am passionate about the path of continuous learning, extending my limits, and participating in social activities that aim to have a constructive impact.
 
 * 🧑🏽‍💻  Python, MERN Stack, Java
 * ✉️  You can contact me at [rishithayanidhi@gmail.com](mailto:rishithayanidhi@gmail.com)
