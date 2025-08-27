@@ -34,11 +34,11 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-  
-![](https://github-readme-stats.vercel.app/api?username=rishithayanidhi&theme=radical&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=rishithayanidhi&theme=tokyonight&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rishithayanidhi&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+ <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rishithayanidhi&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishithayanidhi&theme=tokyonight&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishithayanidhi&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150" />
+</p>
 </div>
 
 ---
