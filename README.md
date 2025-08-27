@@ -1,35 +1,48 @@
-<!-- <img  align="right" src="" alt="coding gif" height="300" width="400"></img> -->
+<h1 align="center">Hi 👋, I'm Rishi Thayanidhi</h1>
+<h3 align="center">A passionate Full Stack Developer 🚀 | Tech Explorer | Machine Learning Enthusiat</h3>
 
-<h1>Hello Scripter !!</h1>
-
-
-<!--[![Twitter Badge](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Frishithayanidhi&label=%40rishithayanidhi
-)](https://x.com/rishithayanidhi)
-[![Instagram Badge](https://img.shields.io/badge/rishithayanidhi-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/rishithayanidhi/) -->
- [![Linkedin Badge](https://img.shields.io/badge/-rishithayanidhi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rishithayanidhi/)](https://www.linkedin.com/in/rishithayanidhi/) 
-[![Gmail Badge](https://img.shields.io/badge/-rishithayanidhi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rishithayanidhi@gmail.com)](mailto:rishithayanidhi@gmail.com)
-
-
-I'm Rishi🤞, a Pre-final student at Sri Sairam Engineering College. I am passionate about Web development.I am passionate about the path of continuous learning, extending my limits, and participating in social activities that aim to have a constructive impact.Researching about Machine Learning Model training
-
-* 🧑🏽‍💻  Python, MERN Stack, Java
-* ✉️  You can contact me at [rishithayanidhi@gmail.com](mailto:rishithayanidhi@gmail.com)
-* 🧠  I'm learning DSA in Java
-* ⚡  Life is like debugging code; every bug you fix reveals a new layer of complexity.
-* 🧑🏽‍💻 [Visit my portfolio](https://rishithayanidhi.vercel.app/)
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rishithayanidhi&theme=react&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=rishithayanidhi&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rishithayanidhi&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Building+scalable+web+applications;Devops+Enthusiast+☁️;Open+Source+Contributor;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=rishithayanidhi&icon=1&color=5)](https://visitcount.itsvg.in)
+🤞A Pre-final student at Sri Sairam Engineering College. I am passionate about Web development.I am passionate about the path of continuous learning, extending my limits, and participating in social activities that aim to have a constructive impact.Researching about Machine Learning Model training
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+* 🧑🏽‍💻  Python, MERN Stack, Java
+* 🧠  I'm learning DSA in Java
+* ⚡  Life is like debugging code; every bug you fix reveals a new layer of complexity.
 
+### 🌐 Connect with Me:
+<p align="left">
+  <a href="https://www.linkedin.com/in/rishithayanidhi/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:rishithayanidhi@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<!--   <a href="https://x.com/Kaushal__marcus" target="_blank"><img alt="X" src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" /></a> -->
+  <a href="https://rishithayanidhi.me/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
 
+---
 
+### 🧠 Tech Stack
+<div align="center">
+  
+![My Skills](https://skillicons.dev/icons?i=c,python,java,javascript,typescript,react,nodejs,express,tailwind,fastapi,mongodb,mysql,docker,git,github,postman&theme=dark&perline=8)
 
+</div>
+
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+  
+![](https://github-readme-stats.vercel.app/api?username=rishithayanidhi&theme=radical&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=rishithayanidhi&theme=tokyonight&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rishithayanidhi&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer&width=100%"/>
+</p>
