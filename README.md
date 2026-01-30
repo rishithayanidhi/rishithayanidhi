@@ -74,14 +74,11 @@
 <br />
 
 <h3>📊 GitHub Analytics</h3>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rishithayanidhi&theme=tokyonight&hide_border=true&show_icons=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishithayanidhi&theme=tokyonight&hide_border=true" height="160" />
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishithayanidhi&theme=tokyonight&hide_border=true&layout=compact&custom_title=Top%20Languages" height="140" />
-</div>
+<p align="center">
+  <a href="https://git.io/awesome-stats-card">
+    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/rishithayanidhi?cardType=github&theme=react&fontFamily=Poppins&preferLogin=true" alt="My Awesome Stats" />
+  </a>
+</p>
 <br />
 
 <p align="center">
