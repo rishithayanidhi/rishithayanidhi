@@ -178,5 +178,5 @@
 </p>
 
 <div align="center">
-  <img src="assets/footer.svg" width="100%" alt="Status: open to opportunities"/>
+  <img src="footer.svg" width="100%" alt="Status: open to opportunities"/>
 </div>
