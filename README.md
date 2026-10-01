@@ -39,58 +39,7 @@
 
 <img src="divider.svg" width="100%" alt=""/>
 
-<h3 align="center">🧪 Featured Projects</h3>
-
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🏍️ Smart Rider Guardian System</h4>
-      <sub>Cross-modal pipeline that detects with <b>YOLOv8</b>, captions with <b>BLIP</b>, aligns with <b>CLIP</b>, and returns a natural-language description of the scene.</sub>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/PyTorch-0B1220?style=flat-square&logo=pytorch&logoColor=22D3EE"/>
-      <img src="https://img.shields.io/badge/YOLOv8-0B1220?style=flat-square&logoColor=22D3EE"/>
-      <img src="https://img.shields.io/badge/CLIP-0B1220?style=flat-square&logoColor=22D3EE"/>
-      <img src="https://img.shields.io/badge/BLIP-0B1220?style=flat-square&logoColor=22D3EE"/>
-      <br/><br/>
-      <a href="https://github.com/rishithayanidhi/REPO-NAME">View repo →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🕸️ AI Honeypot System</h4>
-      <sub>Multi-agent LLM system orchestrated with <b>LangGraph</b>, using a semantic annotation schema to structure and label interactions.</sub>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/LangGraph-0B1220?style=flat-square&logoColor=22D3EE"/>
-      <img src="https://img.shields.io/badge/Multi--Agent-0B1220?style=flat-square&logoColor=22D3EE"/>
-      <img src="https://img.shields.io/badge/Python-0B1220?style=flat-square&logo=python&logoColor=22D3EE"/>
-      <br/><br/>
-      <a href="https://github.com/rishithayanidhi/REPO-NAME">View repo →</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>📚 KnowledgeHub AI</h4>
-      <sub>RAG document-intelligence platform: FastAPI backend, React (Vite) frontend, PostgreSQL semantic search, Hugging Face inference, and Tesseract/Poppler OCR fallback for scanned PDFs.</sub>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/FastAPI-0B1220?style=flat-square&logo=fastapi&logoColor=22D3EE"/>
-      <img src="https://img.shields.io/badge/React-0B1220?style=flat-square&logo=react&logoColor=22D3EE"/>
-      <img src="https://img.shields.io/badge/PostgreSQL-0B1220?style=flat-square&logo=postgresql&logoColor=22D3EE"/>
-      <img src="https://img.shields.io/badge/Hugging%20Face-0B1220?style=flat-square&logo=huggingface&logoColor=22D3EE"/>
-      <br/><br/>
-      <a href="https://github.com/rishithayanidhi/REPO-NAME">View repo →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🏠 Property Pulse</h4>
-      <sub>Real-estate price prediction with <b>XGBoost</b> and Scikit-learn, served through a FastAPI endpoint, with a Power BI dashboard on top.</sub>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/XGBoost-0B1220?style=flat-square&logoColor=22D3EE"/>
-      <img src="https://img.shields.io/badge/Scikit--Learn-0B1220?style=flat-square&logo=scikitlearn&logoColor=22D3EE"/>
-      <img src="https://img.shields.io/badge/FastAPI-0B1220?style=flat-square&logo=fastapi&logoColor=22D3EE"/>
-      <br/><br/>
-      <a href="https://github.com/rishithayanidhi/REPO-NAME">View repo →</a>
-    </td>
-  </tr>
-</table>
-
-<img src="divider.svg" width="100%" alt=""/>
+<!-- <img src="divider.svg" width="100%" alt=""/> -->
 
 <h3 align="center">🧩 What I Can Do, and Where I've Done It</h3>
 
