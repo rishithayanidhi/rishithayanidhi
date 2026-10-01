@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="header.svg" width="100%" alt="Rishi Thayanidhi — Full Stack, DevOps, Machine Learning"/>
+  <img src="header.svg" width="100%" alt="Rishi Thayanidhi — Vision-Language Models, Multi-Agent Systems, Applied ML"/>
 </div>
 
 <p align="center">
-  <sub>Final-year CSE student at <b>Sri Sairam Engineering College</b> · I build complete systems, from the UI down to the infrastructure beneath it.</sub>
+  <sub>Final-year CSE student at <b>Sri Sairam Engineering College</b> · I build multimodal and agent-based ML systems, and ship them as working products.</sub>
 </p>
 
 <p align="center">
@@ -12,28 +12,127 @@
   <a href="https://rishithayanidhi.me/"><img src="https://img.shields.io/badge/Portfolio-0B1220?style=for-the-badge&logo=vercel&logoColor=22D3EE" alt="Portfolio"/></a>
 </p>
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<p align="center">
+  🏆 <b>National hackathon finalist</b> (top 2% of 40,000+ at AI Impact Summit) &nbsp;·&nbsp; 🥇 <b>1st place, InnoFusion Hackathon</b> &nbsp;·&nbsp; 📜 <b>Patent holder</b> &nbsp;·&nbsp; 🌏 Open to on-site international internships
+</p>
 
-<h3 align="center">⚡ What I'm Up To</h3>
+<img src="divider.svg" width="100%" alt=""/>
+
+<h3 align="center">🎯 Focus</h3>
 
 <table align="center" width="100%">
   <tr>
     <td width="33%" valign="top" align="center">
-      <h4>🛠️ Building</h4>
-      <sub>Complete systems, from the<br/>frontend UI to the backend infrastructure</sub>
+      <h4>👁️ Vision-Language Models</h4>
+      <sub>YOLOv8 fine-tuning, CLIP, BLIP,<br/>image-text alignment, cross-modal pipelines</sub>
     </td>
     <td width="33%" valign="top" align="center">
-      <h4>☁️ Learning</h4>
-      <sub>DevOps in depth —<br/>Docker, Kubernetes, observability</sub>
+      <h4>🤖 Agentic LLM Systems</h4>
+      <sub>Multi-agent workflows with LangGraph,<br/>RAG, semantic search, OCR fallbacks</sub>
     </td>
     <td width="33%" valign="top" align="center">
-      <h4>🤖 Exploring</h4>
-      <sub>Machine Learning with<br/>Scikit-Learn and Pandas</sub>
+      <h4>🚀 Shipping to Production</h4>
+      <sub>FastAPI + React backends, Docker,<br/>and the tooling to deploy what I train</sub>
     </td>
   </tr>
 </table>
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="divider.svg" width="100%" alt=""/>
+
+<h3 align="center">🧪 Featured Projects</h3>
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🏍️ Smart Rider Guardian System</h4>
+      <sub>Cross-modal pipeline that detects with <b>YOLOv8</b>, captions with <b>BLIP</b>, aligns with <b>CLIP</b>, and returns a natural-language description of the scene.</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/PyTorch-0B1220?style=flat-square&logo=pytorch&logoColor=22D3EE"/>
+      <img src="https://img.shields.io/badge/YOLOv8-0B1220?style=flat-square&logoColor=22D3EE"/>
+      <img src="https://img.shields.io/badge/CLIP-0B1220?style=flat-square&logoColor=22D3EE"/>
+      <img src="https://img.shields.io/badge/BLIP-0B1220?style=flat-square&logoColor=22D3EE"/>
+      <br/><br/>
+      <a href="https://github.com/rishithayanidhi/REPO-NAME">View repo →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🕸️ AI Honeypot System</h4>
+      <sub>Multi-agent LLM system orchestrated with <b>LangGraph</b>, using a semantic annotation schema to structure and label interactions.</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/LangGraph-0B1220?style=flat-square&logoColor=22D3EE"/>
+      <img src="https://img.shields.io/badge/Multi--Agent-0B1220?style=flat-square&logoColor=22D3EE"/>
+      <img src="https://img.shields.io/badge/Python-0B1220?style=flat-square&logo=python&logoColor=22D3EE"/>
+      <br/><br/>
+      <a href="https://github.com/rishithayanidhi/REPO-NAME">View repo →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📚 KnowledgeHub AI</h4>
+      <sub>RAG document-intelligence platform: FastAPI backend, React (Vite) frontend, PostgreSQL semantic search, Hugging Face inference, and Tesseract/Poppler OCR fallback for scanned PDFs.</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/FastAPI-0B1220?style=flat-square&logo=fastapi&logoColor=22D3EE"/>
+      <img src="https://img.shields.io/badge/React-0B1220?style=flat-square&logo=react&logoColor=22D3EE"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-0B1220?style=flat-square&logo=postgresql&logoColor=22D3EE"/>
+      <img src="https://img.shields.io/badge/Hugging%20Face-0B1220?style=flat-square&logo=huggingface&logoColor=22D3EE"/>
+      <br/><br/>
+      <a href="https://github.com/rishithayanidhi/REPO-NAME">View repo →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🏠 Property Pulse</h4>
+      <sub>Real-estate price prediction with <b>XGBoost</b> and Scikit-learn, served through a FastAPI endpoint, with a Power BI dashboard on top.</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/XGBoost-0B1220?style=flat-square&logoColor=22D3EE"/>
+      <img src="https://img.shields.io/badge/Scikit--Learn-0B1220?style=flat-square&logo=scikitlearn&logoColor=22D3EE"/>
+      <img src="https://img.shields.io/badge/FastAPI-0B1220?style=flat-square&logo=fastapi&logoColor=22D3EE"/>
+      <br/><br/>
+      <a href="https://github.com/rishithayanidhi/REPO-NAME">View repo →</a>
+    </td>
+  </tr>
+</table>
+
+<img src="divider.svg" width="100%" alt=""/>
+
+<h3 align="center">🧩 What I Can Do, and Where I've Done It</h3>
+
+<table align="center" width="100%">
+  <tr>
+    <th align="left">Capability</th>
+    <th align="left">Tools</th>
+    <th align="left">Proven in</th>
+  </tr>
+  <tr>
+    <td><b>Vision-language modeling</b></td>
+    <td>CLIP · BLIP · image-text alignment</td>
+    <td>Smart Rider Guardian</td>
+  </tr>
+  <tr>
+    <td><b>Object detection &amp; fine-tuning</b></td>
+    <td>YOLOv8 · PyTorch</td>
+    <td>Smart Rider Guardian</td>
+  </tr>
+  <tr>
+    <td><b>Multi-agent LLM orchestration</b></td>
+    <td>LangGraph · LangChain</td>
+    <td>AI Honeypot System</td>
+  </tr>
+  <tr>
+    <td><b>Retrieval &amp; document intelligence</b></td>
+    <td>RAG · PostgreSQL semantic search · Tesseract OCR</td>
+    <td>KnowledgeHub AI</td>
+  </tr>
+  <tr>
+    <td><b>Predictive modeling &amp; serving</b></td>
+    <td>XGBoost · Scikit-Learn · FastAPI · Power BI</td>
+    <td>Property Pulse</td>
+  </tr>
+  <tr>
+    <td><b>Full-stack delivery</b></td>
+    <td>React · FastAPI · Node · Docker</td>
+    <td>KnowledgeHub AI and internships</td>
+  </tr>
+</table>
+
+<img src="divider.svg" width="100%" alt=""/>
 
 <h3 align="center">💼 Experience</h3>
 
@@ -47,69 +146,37 @@
   <img src="patent.svg" width="100%" alt="Patent holder: Autonomous Solar Panel Cleaning System"/>
 </div>
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="divider.svg" width="100%" alt=""/>
 
 <h3 align="center">🛠️ Tech Arsenal</h3>
 
 <table align="center">
   <tr>
-    <td align="right"><img src="https://img.shields.io/badge/LANGUAGES-0E7490?style=flat-square" alt="Languages"/></td>
-    <td><img src="https://skillicons.dev/icons?i=py,java,ts,js&theme=dark" alt="Languages"/></td>
-  </tr>
-  <tr>
-    <td align="right"><img src="https://img.shields.io/badge/FRONTEND-0E7490?style=flat-square" alt="Frontend"/></td>
-    <td><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter&theme=dark" alt="Frontend"/></td>
+    <td align="right"><img src="https://img.shields.io/badge/ML%20%2F%20AI-0E7490?style=flat-square" alt="ML and AI"/></td>
+    <td><img src="https://skillicons.dev/icons?i=pytorch,sklearn,py,huggingface&theme=dark" alt="ML and AI"/></td>
   </tr>
   <tr>
     <td align="right"><img src="https://img.shields.io/badge/BACKEND-0E7490?style=flat-square" alt="Backend"/></td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" alt="Backend"/></td>
+    <td><img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,postgres,mongodb&theme=dark" alt="Backend"/></td>
   </tr>
   <tr>
-    <td align="right"><img src="https://img.shields.io/badge/DEVOPS-0E7490?style=flat-square" alt="DevOps"/></td>
-    <td><img src="https://skillicons.dev/icons?i=docker,kubernetes,prometheus,grafana,linux&theme=dark" alt="DevOps"/></td>
+    <td align="right"><img src="https://img.shields.io/badge/FRONTEND-0E7490?style=flat-square" alt="Frontend"/></td>
+    <td><img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,flutter&theme=dark" alt="Frontend"/></td>
   </tr>
   <tr>
-    <td align="right"><img src="https://img.shields.io/badge/DATABASES-0E7490?style=flat-square" alt="Databases"/></td>
-    <td><img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql&theme=dark" alt="Databases"/></td>
-  </tr>
-  <tr>
-    <td align="right"><img src="https://img.shields.io/badge/ML%20%2F%20DATA-0E7490?style=flat-square" alt="ML and Data"/></td>
-    <td>
-      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn"/>
-      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-    </td>
+    <td align="right"><img src="https://img.shields.io/badge/DEPLOY-0E7490?style=flat-square" alt="Deploy"/></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,linux,git&theme=dark" alt="Deploy"/></td>
   </tr>
 </table>
 
-<h3 align="center">🧭 How I Build</h3>
-
-```mermaid
-flowchart LR
-    UI["React / Next.js"] --> API["Node · Express · FastAPI"]
-    API --> DB[("Postgres · Mongo · MySQL")]
-    API --> D["Docker"] --> K["Kubernetes"] --> M["Prometheus + Grafana"]
-    API -.-> ML["Scikit-Learn · Pandas"]
-    classDef n fill:#0B1220,stroke:#22D3EE,color:#E2E8F0,stroke-width:1.5px;
-    class UI,API,DB,D,K,M,ML n;
-```
+<sub><b>Also working with:</b> LangChain · LangGraph · CLIP · BLIP · Tesseract OCR · XGBoost · Power BI · Kubernetes (learning)</sub>
 
 <img src="divider.svg" width="100%" alt=""/>
-
-<h3 align="center">📊 GitHub Stats</h3>
-
-<p align="center">
-  <a href="https://git.io/awesome-stats-card">
-    <img height="180" src="https://awesome-github-stats.azurewebsites.net/user-stats/rishithayanidhi?cardType=github&theme=react&fontFamily=Poppins&preferLogin=true" alt="GitHub Stats" />
-  </a>
-  <img height="180" src="https://streak-stats.demolab.com?user=rishithayanidhi&theme=tokyonight&hide_border=true" alt="Streak" />
-</p>
-
-<img src="assets/divider.svg" width="100%" alt=""/>
 
 <p align="center">
   <i>"Life is like debugging code; every bug you fix reveals a new layer of complexity."</i>
 </p>
 
 <div align="center">
-  <img src="footer.svg" width="100%" alt="Status: open to opportunities"/>
+  <img src="assets/footer.svg" width="100%" alt="Status: open to opportunities"/>
 </div>
