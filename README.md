@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/rishithayanidhi/"><img src="https://img.shields.io/badge/LinkedIn-0B1220?style=for-the-badge&logo=linkedin&logoColor=22D3EE" alt="LinkedIn"/></a>
   <a href="mailto:rishithayanidhi@gmail.com"><img src="https://img.shields.io/badge/Email-0B1220?style=for-the-badge&logo=gmail&logoColor=22D3EE" alt="Email"/></a>
-  <a href="https://rishithayanidhi.me/"><img src="https://img.shields.io/badge/Portfolio-0B1220?style=for-the-badge&logo=vercel&logoColor=22D3EE" alt="Portfolio"/></a>
+  <a href="https://rishithayanidhi.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0B1220?style=for-the-badge&logo=vercel&logoColor=22D3EE" alt="Portfolio"/></a>
 </p>
 
 <p align="center">
