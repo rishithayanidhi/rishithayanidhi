@@ -1,90 +1,115 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=Rishi%20Thayanidhi&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20ML%20Enthusiast%20%7C%20DevOps%20Learner&descAlignY=55&descAlign=50"/>
+  <img src="header.svg" width="100%" alt="Rishi Thayanidhi — Full Stack, DevOps, Machine Learning"/>
 </div>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Building+scalable+web+apps;Exploring+DevOps+Architecture+☁️;Training+ML+Models+🤖;Solving+Complex+Problems" alt="Typing SVG" />
-  </a>
+  <sub>Final-year CSE student at <b>Sri Sairam Engineering College</b> · I build complete systems, from the UI down to the infrastructure beneath it.</sub>
 </p>
 
 <p align="center">
-  A Pre-final year student at <b>Sri Sairam Engineering College</b> passionate about building complete systems—from the frontend UI to the backend infrastructure. I thrive on debugging complex code and am currently diving deep into <b>DevOps</b> (Docker, K8s) and <b>Machine Learning</b>.
+  <a href="https://www.linkedin.com/in/rishithayanidhi/"><img src="https://img.shields.io/badge/LinkedIn-0B1220?style=for-the-badge&logo=linkedin&logoColor=22D3EE" alt="LinkedIn"/></a>
+  <a href="mailto:rishithayanidhi@gmail.com"><img src="https://img.shields.io/badge/Email-0B1220?style=for-the-badge&logo=gmail&logoColor=22D3EE" alt="Email"/></a>
+  <a href="https://rishithayanidhi.me/"><img src="https://img.shields.io/badge/Portfolio-0B1220?style=for-the-badge&logo=vercel&logoColor=22D3EE" alt="Portfolio"/></a>
 </p>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/rishithayanidhi/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:rishithayanidhi@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://rishithayanidhi.me/" target="_blank">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</div>
+<img src="assets/divider.svg" width="100%" alt=""/>
 
-<br />
+<h3 align="center">⚡ What I'm Up To</h3>
 
-<h3>💼 Professional Experience</h3>
-<table align="center">
-  <thead>
-    <tr>
-      <th>Role</th>
-      <th>Company</th>
-      <th>Key Tech</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><b>Full Stack Developer</b></td>
-      <td>Maestrominds</td>
-      <td>React, Node.js, Full Cycle Dev</td>
-    </tr>
-    <tr>
-      <td><b>DevOps Intern</b></td>
-      <td>Sri Sairam Techno Incubator</td>
-      <td>Docker, K8s, Prometheus, Grafana</td>
-    </tr>
-    <tr>
-      <td><b>Intern</b></td>
-      <td>Woosu Automotive</td>
-      <td>Networking, Database Management</td>
-    </tr>
-  </tbody>
+<table align="center" width="100%">
+  <tr>
+    <td width="33%" valign="top" align="center">
+      <h4>🛠️ Building</h4>
+      <sub>Complete systems, from the<br/>frontend UI to the backend infrastructure</sub>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <h4>☁️ Learning</h4>
+      <sub>DevOps in depth —<br/>Docker, Kubernetes, observability</sub>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <h4>🤖 Exploring</h4>
+      <sub>Machine Learning with<br/>Scikit-Learn and Pandas</sub>
+    </td>
+  </tr>
 </table>
 
-<br />
+<img src="assets/divider.svg" width="100%" alt=""/>
 
-<h3>🛠️ Technical Arsenal</h3>
+<h3 align="center">💼 Experience</h3>
 
-```json
-{
-  "languages": ["Python", "Java", "TypeScript", "JavaScript"],
-  "frontend": ["React", "Next.js", "Tailwind CSS", "Flutter"],
-  "backend": ["Node.js", "FastAPI", "Express"],
-  "devops_infrastructure": {
-    "containerization": ["Docker", "Kubernetes"],
-    "monitoring": ["Prometheus", "Grafana"],
-    "os": ["Linux"]
-  },
-  "databases_and_ml": ["PostgreSQL", "MongoDB", "MySQL", "Scikit-Learn", "Pandas"]
-}
+<div align="center">
+  <img src="experience.svg" width="100%" alt="Experience: Maestrominds, Sri Sairam Techno Incubator, Woosu Automotive"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="patent.svg" width="100%" alt="Patent holder: Autonomous Solar Panel Cleaning System"/>
+</div>
+
+<img src="assets/divider.svg" width="100%" alt=""/>
+
+<h3 align="center">🛠️ Tech Arsenal</h3>
+
+<table align="center">
+  <tr>
+    <td align="right"><img src="https://img.shields.io/badge/LANGUAGES-0E7490?style=flat-square" alt="Languages"/></td>
+    <td><img src="https://skillicons.dev/icons?i=py,java,ts,js&theme=dark" alt="Languages"/></td>
+  </tr>
+  <tr>
+    <td align="right"><img src="https://img.shields.io/badge/FRONTEND-0E7490?style=flat-square" alt="Frontend"/></td>
+    <td><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter&theme=dark" alt="Frontend"/></td>
+  </tr>
+  <tr>
+    <td align="right"><img src="https://img.shields.io/badge/BACKEND-0E7490?style=flat-square" alt="Backend"/></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" alt="Backend"/></td>
+  </tr>
+  <tr>
+    <td align="right"><img src="https://img.shields.io/badge/DEVOPS-0E7490?style=flat-square" alt="DevOps"/></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,kubernetes,prometheus,grafana,linux&theme=dark" alt="DevOps"/></td>
+  </tr>
+  <tr>
+    <td align="right"><img src="https://img.shields.io/badge/DATABASES-0E7490?style=flat-square" alt="Databases"/></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql&theme=dark" alt="Databases"/></td>
+  </tr>
+  <tr>
+    <td align="right"><img src="https://img.shields.io/badge/ML%20%2F%20DATA-0E7490?style=flat-square" alt="ML and Data"/></td>
+    <td>
+      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn"/>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+    </td>
+  </tr>
+</table>
+
+<h3 align="center">🧭 How I Build</h3>
+
+```mermaid
+flowchart LR
+    UI["React / Next.js"] --> API["Node · Express · FastAPI"]
+    API --> DB[("Postgres · Mongo · MySQL")]
+    API --> D["Docker"] --> K["Kubernetes"] --> M["Prometheus + Grafana"]
+    API -.-> ML["Scikit-Learn · Pandas"]
+    classDef n fill:#0B1220,stroke:#22D3EE,color:#E2E8F0,stroke-width:1.5px;
+    class UI,API,DB,D,K,M,ML n;
 ```
-<br />
 
-<h3>📊 GitHub Analytics</h3>
+<img src="divider.svg" width="100%" alt=""/>
+
+<h3 align="center">📊 GitHub Stats</h3>
+
 <p align="center">
   <a href="https://git.io/awesome-stats-card">
-    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/rishithayanidhi?cardType=github&theme=react&fontFamily=Poppins&preferLogin=true" alt="My Awesome Stats" />
+    <img height="180" src="https://awesome-github-stats.azurewebsites.net/user-stats/rishithayanidhi?cardType=github&theme=react&fontFamily=Poppins&preferLogin=true" alt="GitHub Stats" />
   </a>
+  <img height="180" src="https://streak-stats.demolab.com?user=rishithayanidhi&theme=tokyonight&hide_border=true" alt="Streak" />
 </p>
-<br />
+
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 <p align="center">
   <i>"Life is like debugging code; every bug you fix reveals a new layer of complexity."</i>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&width=100%"/>
-</p>
+<div align="center">
+  <img src="footer.svg" width="100%" alt="Status: open to opportunities"/>
+</div>
